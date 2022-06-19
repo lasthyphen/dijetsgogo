@@ -12,7 +12,6 @@ go 1.16
 require (
 	github.com/Microsoft/go-winio v0.4.14
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/lasthyphen/dijethh latest
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/decred/dcrd/dcrec/secp256k1/v3 v3.0.0-20200627015759-01fd2de07837
 	github.com/golang-jwt/jwt v3.2.1+incompatible
@@ -29,6 +28,7 @@ require (
 	github.com/jackpal/gateway v1.0.6
 	github.com/jackpal/go-nat-pmp v1.0.2
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
+	github.com/lasthyphen/dijethh v0.0.0-20220619043124-59981a996996
 	github.com/linxGnu/grocksdb v1.6.34
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mr-tron/base58 v1.2.0
